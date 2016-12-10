@@ -1,0 +1,5 @@
+# Macro file of "exampleRTPET.cc"
+#
+/control/verbose 2
+#
+/run/beamOn 10000
